@@ -1,7 +1,7 @@
 # Almabetter-Flashcard-Generator
 
 #react app will be open dirctly 
-goursunder.netlify.app
+https://goursunder.netlify.app
 
 This is a frontend capston project given by the Almabetter which is Flashcard Generator
 
